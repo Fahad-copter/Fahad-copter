@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fahad-copter
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on some front end projects
-- 📫 email : fahadkhanfair@gmail.com
+- 👀 Interested in web development
+- 🌱 Currently learning react js
+- 💞️ Looking to collaborate on some front end projects
+- 📫 Electronic mail : fahadkhanfair@gmail.com
 - 📫 Linkedin : https://www.linkedin.com/in/fahadkhan313/
