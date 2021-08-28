@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fahad-copter
+- 👋 Hi, I’m @Fahad
 - 👀 Interested in web development
 - 🌱 Currently learning react js
 - 💞️ Looking to collaborate on some front end projects
