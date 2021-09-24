@@ -1,6 +1,2 @@
-- 👋 Hi, I’m Fahad
-- 👀 Interested in web development
-- 🌱 Currently learning react js
-- 💞️ Looking to collaborate on some front end projects
-- 📫 Electronic mail : fahadkhanfair@gmail.com
+- Just Hate Praising MySelf
 - 📫 Linkedin : https://www.linkedin.com/in/fahadkhan313/
